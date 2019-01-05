@@ -1,4 +1,6 @@
-# Giphy-Search-App
-A simple Giphy search app using Node.js and the Giphy API that run locally
+# Giphy Search App
 
-This project utilized handlebars.js, node.js, and express.js
+This is a project from Make School online tutorials
+
+A simple Giphy search app using Node.js and the Giphy API.
+
